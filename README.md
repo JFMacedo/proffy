@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/JFMacedo/proffy/5b938d6c88679fa7ae05d78fa925d82006d9243c/web/src/assets/images/logo-readme.svg" alt="Proffy" width="280"/>
+   <img src="https://raw.githubusercontent.com/JFMacedo/proffy/e9f80bb79e8bee959bff5f9d98671ee6157016d8/web/src/assets/images/logo-readme.svg" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">	
